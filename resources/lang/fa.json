@@ -27,6 +27,7 @@
     "Delete": "حذف",
     "Description": "توضیحات",
     "Display name": "نام برای نمایش",
+    "Displayed records: :from-:to of :total": "نمایش نتایج : :from-:to از :total",
     "Edit": "ویرایش",
     "Email": "ایمیل",
     "Email address": "آدرس ایمیل",
@@ -97,5 +98,6 @@
     "Filters": "فیلتر",
     "Upload file": "بارگزاری فایل",
     "Media catalog": "کاتالوگ چند رسانه ای",
-    "Configure columns": "ستون ها را تنظیم کنید"
+    "Configure columns": "ستون ها را تنظیم کنید",
+    "Are you sure?": "آیا مطمئن هستید؟"
 }
